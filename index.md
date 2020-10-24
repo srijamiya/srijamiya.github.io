@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Sri Jamiya S </title>
+	<!--<title>Sri Jamiya S </title>-->
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="keywords" content="">
@@ -151,7 +151,7 @@ interests include Vehicle Detection, Object Detection and Deep Neural Networks.<
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>	
 <script src="js/jquery.backstretch.min.js"></script>
-<script src="js/custom.js"></script>
+<script src="js/custom.js"></script> -->	
 
 </body>
 </html>
