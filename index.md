@@ -147,7 +147,7 @@ interests include Vehicle Detection, Object Detection and Deep Neural Networks.<
 	</div>
 </footer>
 
-<!-- javascript js -->	
+<!-- javascript js
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.min.js"></script>	
 <script src="js/jquery.backstretch.min.js"></script>
